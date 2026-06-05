@@ -1,4 +1,4 @@
-# IdSharp
+# diubIdSharp
 
 [![Build status](https://ci.appveyor.com/api/projects/status/l8v1xfrnrwm72r6g/branch/master?svg=true)](https://ci.appveyor.com/project/judwhite/idsharp/branch/master) [![MIT License](http://img.shields.io/:license-mit-blue.svg)](https://github.com/judwhite/IdSharp/blob/master/LICENSE)
 
